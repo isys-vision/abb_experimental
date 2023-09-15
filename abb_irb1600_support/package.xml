@@ -8,12 +8,13 @@
     <p>
       This package contains configuration data, 3D models and launch files
       for ABB IRB 1600 manipulators. This package includes the 6kg 1.2m
-      and the 8kg and 10kg 1.45m versions.
+      and the 7kg, 8kg and 10kg 1.45m versions.
     </p>
     <p>
       Joint limits and max joint velocities are based on the information in
       <em>ABB Product specification - IRB 1600/1660ID</em>, document ID:
       <em>3HAC023604-001, Rev AQ</em>.
+      The 7kg and 8kg 1.45m versions are older and described in previous revisions of the same document.
       All URDFs / XACROs are based on the default motion and joint velocity
       limits, unless noted otherwise (ie: no support for high speed joints,
       extended / limited motion ranges or other options).
