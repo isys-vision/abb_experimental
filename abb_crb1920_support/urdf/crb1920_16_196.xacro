@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<robot name="abb_crb1920_16_196" xmlns:xacro="http://ros.org/wiki/xacro">
+  <xacro:include filename="$(find abb_crb1920_support)/urdf/crb1920_16_196_macro.xacro"/>
+  <xacro:abb_crb1920_16_196 prefix=""/>
+</robot>
+

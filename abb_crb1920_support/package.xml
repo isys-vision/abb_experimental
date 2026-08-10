@@ -22,7 +22,7 @@
       extended / limited motion ranges or other options).
     </p>
     <p>
-      Note 1: the CRB 1920-5/0.95 is an early conversion from CAD data
+      Note 1: the CRB 1920-20/1.67 and CRB 1920-16/1.96 are early conversions from CAD data
       downloaded from ABB's library with geometry and kinematics partially
       based on the GoFa datasheet.
       There may be conversion errors and other deviations from the real robot.
@@ -34,7 +34,7 @@
     </p>
   </description>
   <author>Max Körner (Optonic GmbH)</author>
-  <maintainer email="max.koerner@optonic.com">G.A. vd. Hoorn (TU Delft Robotics Institute)</maintainer>
+  <maintainer email="max.koerner@optonic.com">Max Körner (Optonic GmbH)</maintainer>
   <license>Apache-2.0</license>
 
   <url type="website">http://wiki.ros.org/abb_crb1920_support</url>
